@@ -1,0 +1,30 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# ASP.NET temporary files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.cache
+*.bak
+*.swp
